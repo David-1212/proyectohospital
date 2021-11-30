@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imgs/experiencia-en-medicina-3-min.jpg</file>
+        <file>imgs/doc.png</file>
+        <file>imgs/paciente.png</file>
+        <file>imgs/agenda.png</file>
+        <file>imgs/log out.png</file>
+        <file>imgs/back.png</file>
+        <file>imgs/save.ico</file>
+        <file>imgs/logo.png</file>
+        <file>imgs/cancel.png</file>
+        <file>imgs/update.png</file>
+    </qresource>
+</RCC>
